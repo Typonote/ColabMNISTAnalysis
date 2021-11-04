@@ -1,4 +1,4 @@
-# ColabMNISTAnalysis-
+# ColabMNISTAnalysis
 CNN과 LeNet 이미지 분류 모델을 이용하여 MNIST 이미지 분류하기 (머신러닝) <br/>
 
 ![mnist](https://user-images.githubusercontent.com/81430564/140304862-05266949-68a5-48e8-a9de-198db9378ed4.png)

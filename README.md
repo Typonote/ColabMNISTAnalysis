@@ -26,6 +26,8 @@ CNN과 LeNet 이미지 분류 모델을 이용하여 MNIST 이미지 분류하�
 <img width="16" alt="two" src="https://user-images.githubusercontent.com/81430564/140305472-43b89b5b-2731-4072-82ac-b3f42efaba44.png">
 
 
+<img width="620" alt="스크린샷 2021-11-04 오후 8 10 59" src="https://user-images.githubusercontent.com/81430564/140306009-c28cfbd7-d0d1-4bf1-afc0-5cc5cfffa9d3.png">
+
 ## 🌲 디렉토리 구조
 
 ```
